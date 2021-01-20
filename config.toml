@@ -2,3 +2,18 @@ baseURL = "https://recipe-book.truggeri.com/"
 languageCode = "en-us"
 title = "Recipe Book"
 theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+
+[[menu.main]]
+  identifier = "categories"
+  name = "categories"
+  url = "/categories/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "tags"
+  url = "/tags/"
+  weight = 20
