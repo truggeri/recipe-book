@@ -15,7 +15,7 @@ tags: ["crock-pot", "beef"]
 * 3 stalks celery
 * ½ cup red wine
 * 5 cloves garlic
-* 3 tablespoons olive oil
+* 3 Tbsp olive oil
 
 ## Steps
 

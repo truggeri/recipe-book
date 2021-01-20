@@ -7,7 +7,7 @@ tags: ["dutch-oven", "pork"]
 
 ## Ingredients
 
-* 3/4 pounds pork tenderloin roast
+* ¾ pounds pork tenderloin roast
 * ½ cup honey
 * 6 Tbsp dijon honey
 * 1 Tbsp cinnamon

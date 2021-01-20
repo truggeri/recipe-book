@@ -16,7 +16,7 @@ tags: ["pasta"]
 * 8 oz penne pasta
 * ½ tsp salt and pepper
 * 1 cup Montery Jack (or cheddar) cheese, shredded
-* 1/3 cup thinly sliced scallions
+* ⅓ cup thinly sliced scallions
 
 ## Steps
 

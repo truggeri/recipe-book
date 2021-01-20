@@ -11,7 +11,7 @@ tags: ["pasta"]
 * 1 can tuna
 * ½ cup mayonnaise
 * 1 cup celery (or celery seed)
-* 1/3 cup chopped onion
+* ⅓ cup chopped onion
 * ¼ cup chopped green pepper
 * ½ tsp salt
 * 1 can (10.5oz) condensed cream of celery soup

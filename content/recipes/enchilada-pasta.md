@@ -16,7 +16,7 @@ tags: ["chicken"]
 * 2 tsp chili powder
 * 1 tsp cumin
 * 2 (10oz) cans green chili enchilada sauce
-* 2/3 cup red enchilada sauce
+* ⅔ cup red enchilada sauce
 * 2 cups shredded cheddar cheese
 * 1 cup sour cream
 * Penne pasta

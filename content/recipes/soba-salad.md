@@ -13,7 +13,7 @@ tags: ["salad", "vegetarian"]
 * 2 Tbsp rice vinegar or sherry vinegar
 * 2 large cloves minced garlic
 * 1 two inch piece ginger, finely grated
-* 1/3 cup olive oil or vegetable oil
+* ⅓ cup olive oil or vegetable oil
 * ¼ pound cabbage, very thinly sliced
 * 1 cup shelled edamame
 * 1 small bunch scallions, very thinly sliced
