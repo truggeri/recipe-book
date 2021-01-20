@@ -1,0 +1,4 @@
+baseURL = "https://recipe-book.truggeri.com/"
+languageCode = "en-us"
+title = "Recipe Book"
+theme = "PaperMod"
