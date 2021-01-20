@@ -2,6 +2,7 @@
 title: "Al Pastor Pork"
 date: 2021-01-19T18:55:13-05:00
 draft: false
+tags: ["crock-pot", "pork"]
 ---
 
 ## Ingredients
@@ -10,7 +11,7 @@ draft: false
 * 6 dried guajillo chili peppers (rehydrated in water) or 6 chipotles in adobo sauce (easier to find)
 * 8 ounce can of crushed pineapple (juice and all)
 * 1 cup of white onion
-* 1/2 a cup of orange juice
+* ½ a cup of orange juice
 * 4 cloves of garlic
 * 1 Tbsp of apple cider vinegar
 * 1 tsp of oregano
