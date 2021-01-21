@@ -5,6 +5,8 @@ draft: false
 tags: ["pasta"]
 ---
 
+![Tuna Noodle Casserole](https://assets.truggeri.com/images/recipe-book/tuna-noodle-casserole.jpg)
+
 ## Ingredients
 
 * 3 cups medium egg noodles
