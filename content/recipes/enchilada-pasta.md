@@ -2,7 +2,7 @@
 title: "Enchilada Pasta"
 date: 2021-01-20T09:08:54-05:00
 draft: false
-tags: ["chicken"]
+tags: ["chicken", "pasta"]
 ---
 
 ## Ingredients
