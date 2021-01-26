@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 tags: [""]
+canonical_url: ""
 ---
 
 ![{{ replace .Name "-" " " | title }}](https://assets.truggeri.com/images/recipe-book/.jpg)
