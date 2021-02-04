@@ -6,7 +6,8 @@ tags: ["insta-pot", "vegetarian", "pasta"]
 canonical_url: "https://www.feastingathome.com/instant-pot-mushroom-stroganoff/"
 ---
 
-![Mushroom Stroganoff](https://assets.truggeri.com/images/recipe-book/mushroom-stroganoff.jpg)
+{{< figure src="https://assets.truggeri.com/images/recipe-book/mushroom-stroganoff.jpg"
+width=400 height=390 class="center" alt="Mushroom Stroganoff" class="center" >}}
 
 ## Ingredients
 

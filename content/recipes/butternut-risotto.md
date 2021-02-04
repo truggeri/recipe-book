@@ -6,7 +6,8 @@ tags: ["insta-pot", "vegetarian", "soup"]
 canonical_url: "https://www.feastingathome.com/instant-pot-butternut-risotto-with-leeks/"
 ---
 
-![Butternut Risotto](https://assets.truggeri.com/images/recipe-book/butternut-risotto.jpg)
+{{< figure src="https://assets.truggeri.com/images/recipe-book/butternut-risotto.jpg"
+width=400 height=370 class="center" alt="Butternut Risotto" class="center" >}}
 
 ## Ingredients
 

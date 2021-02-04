@@ -5,7 +5,8 @@ draft: false
 tags: ["shrimp", "home-chef"]
 ---
 
-![Chipotle Shrimp Tacos](https://assets.truggeri.com/images/recipe-book/chipotle-shrimp-tacos.jpg)
+{{< figure src="https://assets.truggeri.com/images/recipe-book/chipotle-shrimp-tacos.jpg"
+width=400 height=231 class="center" alt="Chipotle Shrimp Tacos" class="center" >}}
 
 ## Ingredients
 

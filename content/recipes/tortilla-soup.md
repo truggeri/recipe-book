@@ -6,7 +6,8 @@ tags: ["insta-pot", "vegetarian", "soup"]
 canonical_url: "https://peasandcrayons.com/2017/02/vegetarian-lentil-tortilla-soup.html"
 ---
 
-![Tortilla Soup](https://assets.truggeri.com/images/recipe-book/tortilla-soup.jpg)
+{{< figure src="https://assets.truggeri.com/images/recipe-book/tortilla-soup.jpg"
+width=400 height=382 class="center" alt="Tortilla Soup" class="center" >}}
 
 ## Ingredients
 

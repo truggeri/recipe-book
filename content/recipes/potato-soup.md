@@ -6,7 +6,8 @@ tags: ["insta-pot", "vegetarian", "soup"]
 canonical_url: "https://kristineskitchenblog.com/instant-pot-potato-soup/"
 ---
 
-![Potato Soup](https://assets.truggeri.com/images/recipe-book/potato-soup.jpg)
+{{< figure src="https://assets.truggeri.com/images/recipe-book/potato-soup.jpg"
+width=400 height=435 class="center" alt="Potato Soup" class="center" >}}
 
 ## Ingredients
 

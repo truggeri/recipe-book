@@ -5,7 +5,8 @@ draft: false
 tags: ["pasta"]
 ---
 
-![Tuna Noodle Casserole](https://assets.truggeri.com/images/recipe-book/tuna-noodle-casserole.jpg)
+{{< figure src="https://assets.truggeri.com/images/recipe-book/tuna-noodle-casserole.jpg"
+width=400 height=300 class="center" alt="Tuna Noodle Casserole" class="center" >}}
 
 ## Ingredients
 
